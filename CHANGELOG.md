@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-30)
+## Unreleased (2024-07-06)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`271f5d5`](https://github.com/stdlib-js/stdlib/commit/271f5d5d3e530225bd82f34efebf5df9a944fdde) - **refactor:** reduce code duplication in `blas/base` level 1 routines [(#2517)](https://github.com/stdlib-js/stdlib/pull/2517) _(by Aman Bhansali)_
 -   [`a591e05`](https://github.com/stdlib-js/stdlib/commit/a591e052cf1b1515c267781b914c6a482e150425) - **test:** fix test configuration _(by Athan Reines)_
 -   [`d8b6e5a`](https://github.com/stdlib-js/stdlib/commit/d8b6e5a1d6841b05d1af0dfc627be38bb25f9cf1) - **test:** add test cases to `blas/base/drotm` [(#2454)](https://github.com/stdlib-js/stdlib/pull/2454) _(by Aman Bhansali)_
 -   [`51608dc`](https://github.com/stdlib-js/stdlib/commit/51608dce38bc73594242644c3b732c37ed3dfbe8) - **feat:** add `blas/base/drotm` [(#2266)](https://github.com/stdlib-js/stdlib/pull/2266) _(by Aman Bhansali, Athan Reines)_
